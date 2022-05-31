@@ -181,6 +181,6 @@ Highcharts.chart('container', {
 
 # Output
 
-![Output](images/Stacked-3D-columns-with-highchart.png.png)
+![Output](images/Stacked-3D-columns-with-highchart.png)
 
 ***
